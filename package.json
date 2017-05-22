@@ -22,8 +22,5 @@
   "author": "",
   "homepage": "",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/chrislaughlin/console-meow.git"
-  }
+  "repository": "chrislaughlin/console-meow"
 }
