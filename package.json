@@ -12,9 +12,8 @@
   "scripts": {
     "build": "nwb build-web-module",
     "clean": "nwb clean-module",
-    "test": "nwb test",
-    "test:coverage": "nwb test --coverage",
-    "test:watch": "nwb test --server"
+    "test": "echo \"ain't no tests fool\"",
+    "prepublish": "npm run build"
   },
   "dependencies": {
   },
