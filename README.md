@@ -1,6 +1,9 @@
 # console-meow
 Console.meow, logging is always better with cats!
 
+![Console Meow Logo][/public/consolelog.png]
+_logo designed by [Liffy Designs](http://www.liffydesigns.co.uk/)_
+
 # Install
 
 ```
